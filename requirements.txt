@@ -1,0 +1,10 @@
+geopandas==1.0.1\
+pandas==2.2.2\
+pyproj==3.7.1\
+shapely==2.1.1\
+fiona\
+scikit-learn==1.6.1\
+matplotlib==3.10.0\
+r5py \
+folium==0.19.7\
+googlemaps }
